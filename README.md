@@ -1,2 +1,2 @@
 # Git-day-1-practice
-Acaddemy HW 1
+Academy HW 1
